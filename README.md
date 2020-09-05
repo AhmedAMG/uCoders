@@ -1,6 +1,6 @@
 # uCoders-CompanyDatabase
 
-uCoders Program 2019/2020
+uCoders Program 2019-2020
 
 ♙Project: Company Database.
 
