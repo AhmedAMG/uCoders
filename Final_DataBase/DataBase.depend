@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1565368712 source:c:\users\dell\desktop\database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"DataBase.h"
+	"Utility.h"
+
+1565363558 source:c:\users\dell\desktop\database\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"DataBase.h"
+	"Utility.h"
+
+1564954956 c:\users\dell\desktop\database\database.h
+
+1565367548 source:c:\users\dell\desktop\database\utility.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Utility.h"
+
+1565365763 c:\users\dell\desktop\database\utility.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"DataBase.h"
+
+1565363558 source:c:\users\dell\desktop\c\tasks ucoders\database - copy\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"DataBase.h"
+	"Utility.h"
+
+1564954956 c:\users\dell\desktop\c\tasks ucoders\database - copy\database.h
+
+1565365763 c:\users\dell\desktop\c\tasks ucoders\database - copy\utility.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"DataBase.h"
+
+1565371095 source:c:\users\dell\desktop\c\tasks ucoders\database - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"DataBase.h"
+	"Utility.h"
+
+1566300728 source:c:\users\dell\desktop\c\tasks ucoders\database - copy\utility.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Utility.h"
+
